@@ -1,0 +1,77 @@
+cluster,sentence,order
+Cluster 1,1 bulb equal (T1),1
+Cluster 1,Battery voltage equal (T1),2
+Cluster 1,Battery voltage different (T1),3
+Cluster 1,Resistance equal: 1 bulb (T1),4
+Cluster 1,Ammeter equal: after/before 1 or 2 bulb (T1),5
+Cluster 1,Voltmeter equal: 1 bulb or 2 bulbs or battery (T1),6
+Cluster 2,1 bulb equal (T1),1
+Cluster 2,Battery voltage equal (T1),2
+Cluster 2,Resistance equal: 1 bulb (T1),3
+Cluster 2,Ammeter different: before vs. after 1 or 2 bulbs (T1),4
+Cluster 2,Voltmeter equal: 1 bulb or 2 bulbs or battery (T1),5
+Cluster 2,2 bulbs equal (T2),6
+Cluster 2,Battery voltage equal (T2),7
+Cluster 2,Resistance equal: 1 bulb (T2),8
+Cluster 2,Ammeter equal: after/before 1 or 2 bulb (T2),9
+Cluster 2,Voltmeter equal: 1 bulb or 2 bulbs or battery (T2),10
+Cluster 3,1 bulb equal (T1),1
+Cluster 3,Battery voltage different (T1),2
+Cluster 3,Battery voltage equal (T1),3
+Cluster 3,Ammeter equal: after/before 1 or 2 bulb (T1),4
+Cluster 3,Voltmeter equal: 1 bulb or 2 bulbs or battery (T1),5
+Cluster 3,1 bulb equal (T2),6
+Cluster 3,Battery voltage equal (T2),7
+Cluster 3,Resistance equal: 1 bulb (T2),8
+Cluster 3,Ammeter equal: after/before 1 or 2 bulb (T2),9
+Cluster 3,Voltmeter equal: 1 bulb or 2 bulbs or battery (T2),10
+Cluster 3,1 bulb equal (T3),11
+Cluster 3,Battery voltage equal (T3),12
+Cluster 3,Resistance equal: 1 bulb (T3),13
+Cluster 3,Ammeter different: before vs. after 1 or 2 bulbs (T3),14
+Cluster 3,Voltmeter equal: 1 bulb or 2 bulbs or battery (T3),15
+Cluster 3,1 bulb equal (T4),16
+Cluster 3,Battery voltage equal (T4),17
+Cluster 3,Resistance equal: 1 bulb (T4),18
+Cluster 3,Ammeter different: before vs. after 1 or 2 bulbs (T4),19
+Cluster 3,Voltmeter equal: 1 bulb or 2 bulbs or battery (T4),20
+Cluster 3,2 bulbs equal (T5),21
+Cluster 3,Battery voltage equal (T5),22
+Cluster 3,Resistance equal: 2 or 1 vs. 2 bulbs same value (T5),23
+Cluster 3,Ammeter equal: after/before 1 or 2 bulb (T5),24
+Cluster 3,Voltmeter equal: 1 bulb or 2 bulbs or battery (T5),25
+Cluster 4,1 vs. 2 bulbs different (T1),1
+Cluster 4,Battery voltage equal (T1),2
+Cluster 4,Resistance equal: 1 bulb (T1),3
+Cluster 4,Ammeter equal: after/before 1 or 2 bulb (T1),4
+Cluster 4,Voltmeter equal: 1 bulb or 2 bulbs or battery (T1),5
+Cluster 4,2 bulbs equal (T2),6
+Cluster 4,Battery voltage equal (T2),7
+Cluster 4,Resistance equal: 2 bulbs different value (T2),8
+Cluster 4,Ammeter different: before vs. after 1 or 2 bulbs (T2),9
+Cluster 4,Voltmeter equal: 1 bulb or 2 bulbs or battery (T2),10
+Cluster 4,2 bulbs equal (T3),11
+Cluster 4,Battery voltage equal (T3),12
+Cluster 4,Resistance equal: 2 bulbs different value (T3),13
+Cluster 4,Ammeter different: on high/low of 2 bulb (T3),14
+Cluster 4,Voltmeter different: high vs. low resistance 2 bulbs (T3),15
+Cluster 5,1 bulb equal (T1),1
+Cluster 5,Battery voltage equal (T1),2
+Cluster 5,Resistance equal: 1 bulb (T1),3
+Cluster 5,Ammeter different: before vs. after 1 or 2 bulbs (T1),4
+Cluster 5,Voltmeter equal: 1 bulb or 2 bulbs or battery (T1),5
+Cluster 5,1 bulb equal (T2),6
+Cluster 5,Battery voltage equal (T2),7
+Cluster 5,Resistance equal: 1 bulb (T2),8
+Cluster 5,Ammeter equal: after/before 1 or 2 bulb (T2),9
+Cluster 5,Voltmeter equal: 1 bulb or 2 bulbs or battery (T2),10
+Cluster 5,2 bulbs equal (T3),11
+Cluster 5,Battery voltage equal (T3),12
+Cluster 5,Resistance equal: 2 bulbs different value (T3),13
+Cluster 5,Ammeter equal: after/before 1 or 2 bulb (T3),14
+Cluster 5,Voltmeter equal: 1 bulb or 2 bulbs or battery (T3),15
+Cluster 5,2 bulbs equal (T4),16
+Cluster 5,Battery voltage equal (T4),17
+Cluster 5,Resistance equal: 2 bulbs different value (T4),18
+Cluster 5,Ammeter different: before vs. after 1 or 2 bulbs (T4),19
+Cluster 5,Voltmeter equal: 1 bulb or 2 bulbs or battery (T4),20
