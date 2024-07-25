@@ -39,3 +39,5 @@ To utilize this repository:
 - Python 3.x
 - Necessary libraries: pandas, numpy, scipy, matplotlib, seaborn, altair
 
+## License
+This project is made available under the MIT License.
