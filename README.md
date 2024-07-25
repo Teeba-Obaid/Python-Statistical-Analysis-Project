@@ -40,4 +40,4 @@ To utilize this repository:
 - Necessary libraries: pandas, numpy, scipy, matplotlib, seaborn, altair
 
 ## License
-This project is made available under the MIT License.
+This project is made available under the Apache 2.0 License - see the LICENSE.md file for details.
